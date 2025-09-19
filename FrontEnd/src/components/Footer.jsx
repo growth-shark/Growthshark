@@ -84,19 +84,19 @@ export default function Footer() {
 </ul>
           <div className="flex gap-4 mt-4 text-sky-300 text-xl">
             <a
-              href="https://www.facebook.com"
+              href="https://www.facebook.com/growthshark"
               className="hover:text-white transition"
             >
               <FaFacebookF />
             </a>
             <a
-              href="https://www.instagram.com"
+              href="https://www.instagram.com/growthshark.io/"
               className="hover:text-white transition"
             >
               <FaInstagram />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/company/growth-shark/"
               className="hover:text-white transition"
             >
               <FaLinkedinIn />
